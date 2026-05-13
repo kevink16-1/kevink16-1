@@ -26,16 +26,16 @@
 ###
 
 <p align="left">
-  Olá! Meu nome é Kevin. Sou estudante da Escola do Futuro do Estado de Goiás, cursando áreas voltadas para Desenvolvimento Web, Cibersegurança e Computação em Nuvem.
+  Olá! Meu nome é Kevin. Sou estudante da Escola do Futuro do Estado de Goiás, onde atuo e estudo áreas voltadas para Desenvolvimento Web, Cibersegurança, Computação em Nuvem, Frontend e Backend.
 </p>
 
 <p align="left">
-  Atualmente estou aprendendo tecnologias de frontend, backend, criação de interfaces e fundamentos de segurança digital. Aqui no GitHub compartilho meus projetos, estudos e minha evolução na área de tecnologia.
+  Aqui no GitHub compartilho meus projetos, estudos e minha evolução na área de tecnologia, aplicando na prática os conhecimentos adquiridos durante minha formação.
 </p>
 
 ###
 
-<h3 align="left">📚 Studying</h3>
+<h3 align="left">📚 Áreas em que atuo e estudo</h3>
 
 ###
 
@@ -85,43 +85,20 @@
 
 ###
 
-<h3 align="left">💡 Areas of Interest</h3>
-
-###
-
-<p align="left">
-  • Desenvolvimento Frontend<br>
-  • Desenvolvimento Backend<br>
-  • Desenvolvimento Web<br>
-  • Cibersegurança<br>
-  • Segurança da Informação<br>
-  • Computação em Nuvem<br>
-  • UI/UX Design com Figma<br>
-  • Criação de projetos práticos
-</p>
-
-###
-
 <h3 align="left">📌 Projects Developed</h3>
 
 ###
 
-<h4 align="left">🌐 Projetos Web</h4>
+<h4 align="left">📺 Mídia Indoor</h4>
 
 <p align="left">
-  Desenvolvimento de páginas e aplicações utilizando HTML, CSS, JavaScript, TypeScript e Node.js.
+  Sistema de comunicação digital desenvolvido para exibição de informações, avisos e conteúdos em telas, substituindo métodos físicos por uma solução mais moderna, dinâmica e automatizada.
 </p>
 
-<h4 align="left">🔐 Estudos em Cibersegurança</h4>
+<h4 align="left">🌐 Fábrica de Sites</h4>
 
 <p align="left">
-  Estudos sobre segurança digital, redes, boas práticas, proteção de dados e fundamentos de segurança da informação.
-</p>
-
-<h4 align="left">☁️ Computação em Nuvem</h4>
-
-<p align="left">
-  Aprendizado sobre conceitos de nuvem, serviços online, infraestrutura e tecnologias modernas para aplicações conectadas.
+  Projeto voltado para a criação de sites, aplicando conceitos de frontend, design de interfaces, organização visual, responsividade e desenvolvimento web na prática.
 </p>
 
 ###
@@ -131,7 +108,7 @@
 ###
 
 <p align="left">
-  Meu objetivo é evoluir como estudante de tecnologia, desenvolver projetos reais, fortalecer minhas habilidades em programação e conquistar oportunidades na área de desenvolvimento e segurança digital.
+  Meu objetivo é evoluir como estudante de tecnologia, desenvolver projetos reais, fortalecer minhas habilidades em programação e conquistar oportunidades nas áreas de desenvolvimento, segurança digital e computação em nuvem.
 </p>
 
 ###
