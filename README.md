@@ -1,6 +1,4 @@
-Claro. Aqui vai uma versão mais completa e bonita para o README do perfil:
 
-```html
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 </div>
