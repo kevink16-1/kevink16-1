@@ -12,6 +12,17 @@
   Estudante da Escola do Futuro do Estado de Goiás<br>
   Desenvolvimento Web • Cibersegurança • Computação em Nuvem
 </p>
+<h3 align="left">🌐 Connect with Me</h3>
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/kevin-kauan-araújo-05a871409" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Kevin%20Kauan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/SEU_USUARIO" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Perfil-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</div>
 
 ###
 
